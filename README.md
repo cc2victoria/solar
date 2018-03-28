@@ -1,4 +1,29 @@
-# 需求
+# solar
+
+> the eight beauty palents dynamic graph of Solar System
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+# 需求 #
+
+前端工程师测试题目：
 
 制作八大行星WEB前端运动效果
 
@@ -18,3 +43,5 @@
 1. 需要360度可旋转视觉效果；
 
 2. 添加符合产品特性和交互体验的动画效果。
+
+
